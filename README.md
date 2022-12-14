@@ -40,7 +40,10 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 ###
 ```
 ```
+## コンポーネント
+https://tailblocks.cc/
 
+https://wickedblocks.dev/
 
 ## 参考サイト
 ### 公式サイト
