@@ -1,4 +1,4 @@
-# tailwind(テールウィンド)テスト導入
+# tailwind(テールウィンド)学習
 ## 概要
 ### tailwindとは
 tailwindは、オープンソースのCSSフレームワーク
@@ -36,11 +36,7 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 ```
 
 
-
-###
-```
-```
-## コンポーネント
+## おすすめコンポーネント一覧
 https://tailblocks.cc/
 
 https://wickedblocks.dev/
